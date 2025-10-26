@@ -2,8 +2,8 @@ id: 68fe0bafd9f5e7001af5bf8a
 networkId: N5i6ApfcmuWs78qp6TZFM4kSmC2nB7uhbgUdV87tLY3TKVUt
 nodes:
   - addresses:
-      - any-sync-node-1:1001
-      - quic://any-sync-node-1:1011
+      - any-sync-node-1:11001
+      - quic://any-sync-node-1:11011
       - anytype.gutergrund-at.org:11001
       - quic://anytype.gutergrund-at.org:11011
       - 127.0.0.1:1001
@@ -12,8 +12,8 @@ nodes:
     types:
       - tree
   - addresses:
-      - any-sync-node-2:1002
-      - quic://any-sync-node-2:1012
+      - any-sync-node-2:11002
+      - quic://any-sync-node-2:11012
       - anytype.gutergrund-at.org:11002
       - quic://anytype.gutergrund-at.org:11012
       - 127.0.0.1:1002
@@ -22,8 +22,8 @@ nodes:
     types:
       - tree
   - addresses:
-      - any-sync-node-3:1003
-      - quic://any-sync-node-3:1013
+      - any-sync-node-3:11003
+      - quic://any-sync-node-3:11013
       - anytype.gutergrund-at.org:11003
       - quic://anytype.gutergrund-at.org:11013
       - 127.0.0.1:1003
@@ -32,8 +32,8 @@ nodes:
     types:
       - tree
   - addresses:
-      - any-sync-coordinator:1004
-      - quic://any-sync-coordinator:1014
+      - any-sync-coordinator:11004
+      - quic://any-sync-coordinator:11014
       - anytype.gutergrund-at.org:11004
       - quic://anytype.gutergrund-at.org:11014
       - 127.0.0.1:1004
@@ -42,8 +42,8 @@ nodes:
     types:
       - coordinator
   - addresses:
-      - any-sync-filenode:1005
-      - quic://any-sync-filenode:1015
+      - any-sync-filenode:11005
+      - quic://any-sync-filenode:11015
       - anytype.gutergrund-at.org:11005
       - quic://anytype.gutergrund-at.org:11015
       - 127.0.0.1:1005
@@ -52,8 +52,8 @@ nodes:
     types:
       - file
   - addresses:
-      - any-sync-consensusnode:1006
-      - quic://any-sync-consensusnode:1016
+      - any-sync-consensusnode:11006
+      - quic://any-sync-consensusnode:11016
       - anytype.gutergrund-at.org:11006
       - quic://anytype.gutergrund-at.org:11016
       - 127.0.0.1:1006
