@@ -2,62 +2,38 @@ id: 68fe0bafd9f5e7001af5bf8a
 networkId: N5i6ApfcmuWs78qp6TZFM4kSmC2nB7uhbgUdV87tLY3TKVUt
 nodes:
   - addresses:
-      - any-sync-node-1:1001
-      - quic://any-sync-node-1:1011
-      - anytype.gutergrund-at.org:1001
-      - quic://anytype.gutergrund-at.org:1011
-      - 127.0.0.1:1001
-      - quic://127.0.0.1:1011
+      - any-sync-node-1:11001
+      - anytype.gutergrund-at.org:11001
     peerId: 12D3KooWKSKT14u1k2C6oH5otqJR9TZ789mhhWtaBmQf8AKHQ8Be
     types:
       - tree
   - addresses:
-      - any-sync-node-2:1002
-      - quic://any-sync-node-2:1012
-      - anytype.gutergrund-at.org:1002
-      - quic://anytype.gutergrund-at.org:1012
-      - 127.0.0.1:1002
-      - quic://127.0.0.1:1012
+      - any-sync-node-2:11002
+      - anytype.gutergrund-at.org:11002
     peerId: 12D3KooWJEpp1PSb5232PaHRLmWQPwkPhyEcxRwW8UixjvZTCkXT
     types:
       - tree
   - addresses:
-      - any-sync-node-3:1003
-      - quic://any-sync-node-3:1013
-      - anytype.gutergrund-at.org:1003
-      - quic://anytype.gutergrund-at.org:1013
-      - 127.0.0.1:1003
-      - quic://127.0.0.1:1013
+      - any-sync-node-3:11003
+      - anytype.gutergrund-at.org:11003
     peerId: 12D3KooWLRkGqUfiZsTqT5MCz9qsiY1m75cRCXvW6oh7uHG9cM6R
     types:
       - tree
   - addresses:
-      - any-sync-coordinator:1004
-      - quic://any-sync-coordinator:1014
-      - anytype.gutergrund-at.org:1004
-      - quic://anytype.gutergrund-at.org:1014
-      - 127.0.0.1:1004
-      - quic://127.0.0.1:1014
+      - any-sync-coordinator:11004
+      - anytype.gutergrund-at.org:11004
     peerId: 12D3KooWQDspbvovu41MGA1dgrh9rUd8orZPVeCkvYNQbwVDrC9s
     types:
       - coordinator
   - addresses:
-      - any-sync-filenode:1005
-      - quic://any-sync-filenode:1015
-      - anytype.gutergrund-at.org:1005
-      - quic://anytype.gutergrund-at.org:1015
-      - 127.0.0.1:1005
-      - quic://127.0.0.1:1015
+      - any-sync-filenode:11005
+      - anytype.gutergrund-at.org:11005
     peerId: 12D3KooWGVjHe7AeLqF1toCiTc5zGyRnGC3wemof3T6PX4Go1jZu
     types:
       - file
   - addresses:
-      - any-sync-consensusnode:1006
-      - quic://any-sync-consensusnode:1016
-      - anytype.gutergrund-at.org:1006
-      - quic://anytype.gutergrund-at.org:1016
-      - 127.0.0.1:1006
-      - quic://127.0.0.1:1016
+      - any-sync-consensusnode:11006
+      - anytype.gutergrund-at.org:11006
     peerId: 12D3KooWB7RsCAZ5dyEQqSH3vVTdoTkiEJw8o9zu7LaBz1ZGSEpy
     types:
       - consensus
