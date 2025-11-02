@@ -3,37 +3,37 @@ networkId: N5i6ApfcmuWs78qp6TZFM4kSmC2nB7uhbgUdV87tLY3TKVUt
 nodes:
   - addresses:
       - any-sync-node-1:1001
-      - anytype.gutergrund-at.org:1001
+      - anytype.gutergrund-at.org:11001
     peerId: 12D3KooWKSKT14u1k2C6oH5otqJR9TZ789mhhWtaBmQf8AKHQ8Be
     types:
       - tree
   - addresses:
       - any-sync-node-2:1002
-      - anytype.gutergrund-at.org:1002
+      - anytype.gutergrund-at.org:11002
     peerId: 12D3KooWJEpp1PSb5232PaHRLmWQPwkPhyEcxRwW8UixjvZTCkXT
     types:
       - tree
   - addresses:
       - any-sync-node-3:1003
-      - anytype.gutergrund-at.org:1003
+      - anytype.gutergrund-at.org:11003
     peerId: 12D3KooWLRkGqUfiZsTqT5MCz9qsiY1m75cRCXvW6oh7uHG9cM6R
     types:
       - tree
   - addresses:
       - any-sync-coordinator:1004
-      - anytype.gutergrund-at.org:1004
+      - anytype.gutergrund-at.org:11004
     peerId: 12D3KooWQDspbvovu41MGA1dgrh9rUd8orZPVeCkvYNQbwVDrC9s
     types:
       - coordinator
   - addresses:
       - any-sync-filenode:1005
-      - anytype.gutergrund-at.org:1005
+      - anytype.gutergrund-at.org:11005
     peerId: 12D3KooWGVjHe7AeLqF1toCiTc5zGyRnGC3wemof3T6PX4Go1jZu
     types:
       - file
   - addresses:
       - any-sync-consensusnode:1006
-      - anytype.gutergrund-at.org:1006
+      - anytype.gutergrund-at.org:11006
     peerId: 12D3KooWB7RsCAZ5dyEQqSH3vVTdoTkiEJw8o9zu7LaBz1ZGSEpy
     types:
       - consensus
